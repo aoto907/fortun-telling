@@ -1,3 +1,3 @@
-API_TOKEN = "xoxb-3049471760194-3051796721972-Ui0EUzoOJSffb6xa30SEmVPm"
+API_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 DEFAULT_REPLY = "test"
 PLUGINS = ['plugins']
